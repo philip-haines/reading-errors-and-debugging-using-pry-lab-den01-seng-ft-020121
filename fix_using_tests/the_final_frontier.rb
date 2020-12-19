@@ -12,7 +12,7 @@ def state_log(star_date)
   binding.pry
   puts 'hello'
 end
-state_log (star_date)
+state_log
 
 
 def engage
