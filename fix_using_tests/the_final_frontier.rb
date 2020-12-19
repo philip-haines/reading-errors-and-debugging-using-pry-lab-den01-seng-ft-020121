@@ -10,6 +10,7 @@ def state_log(star_date)
   star_date = generate_star_date
   "Captain's Log, star date #{star_date}."
   binding.pry
+  puts 'hello'
 end
 state_log (star_date)
 
